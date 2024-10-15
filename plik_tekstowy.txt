@@ -1,2 +1,3 @@
 to jest plik txt
 Dodano nową linię tekstu
+zmiany w nowej gałęzi
