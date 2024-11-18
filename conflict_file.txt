@@ -1,2 +1,3 @@
 Linia 1
-Linia 2 z gałęzi main
+Linia 2 z obu gałęzi
+
